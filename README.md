@@ -1,6 +1,10 @@
-# E-commecre-project
+# Brazil and its relationship to the emerging economy and e-commerce
 
-The Blog link : https://ecommerce123452.blogspot.com/2020/01/e-commerce-in-brazil.html
+* [Blog Post: Brazil and its relationship to the emerging economy and e-commerce](https://ecommerce123452.blogspot.com/2020/02/brazil-and-its-relationship-to-emerging.html) 
+* [Project Notebook](https://github.com/abdulazizatty/Data_Science_Portfolio/blob/master/Project%204%20Data%20Analysis%20Blog/Data%20Analysis%20code.ipynb) 
+
+
+**Project Motivation:**
 
 In this blog, I talked about the behavior of Brazilians in accepting e-commerce, and how investors should respond to consumer behavior.
 the questions I interested in are:
@@ -11,25 +15,24 @@ the questions I interested in are:
 
 - Which payment type should the investors focusing on it ?
 
-Installation:
+**Installation:**
 
 - pandas
 - sqlite3
 - matplotlib
 
-Data Descriptions:
-The data was in several files so I used SQL to collect the data in one table (as a variable) and use it in the analysis.
+**Data Descriptions:**
 
-Results:
+The data was in several files so I bulit database and I used SQL to extract the data and use it in the analysis.
+
+**Results:**
 - In any analysis process, we need to put questions that help us in the analysis process and search for what is needed.
 - Data analysis requires a high concentration and understanding of the field to extract outputs that contribute to work development and problem solving
 
-References:
-- Kaggle
-https://www.kaggle.com/olistbr/brazilian-ecommerce#olist_sellers_dataset.csv
 
-- Olist
-https://olist.com/
+**References:**
 
-- Wikipedia
-https://en.wikipedia.org/wiki/Brazil
+* [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce#olist_sellers_dataset.csv) 
+* [Olist](https://olist.com/) 
+* [Wikipedia](https://en.wikipedia.org/wiki/Brazil) 
+
