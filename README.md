@@ -1,7 +1,7 @@
 # Brazil and its relationship to the emerging economy and e-commerce
 
 * [Blog Post: Brazil and its relationship to the emerging economy and e-commerce](https://ecommerce123452.blogspot.com/2020/02/brazil-and-its-relationship-to-emerging.html) 
-* [Project Notebook](https://github.com/abdulazizatty/Data_Science_Portfolio/blob/master/Project%204%20Data%20Analysis%20Blog/Data%20Analysis%20code.ipynb) 
+* [Project Notebook](https://github.com/abdulazizatty/Project-4-Blog/blob/master/Data%20Analysis%20code.ipynb) 
 
 
 **Project Motivation:**
